@@ -1,0 +1,10 @@
+ul {
+    padding: 15px 10px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    color: lightseagreen;
+    font-weight: bold;
+}

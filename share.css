@@ -1,0 +1,5 @@
+.share {
+    display: flex;
+    justify-content: center;
+    padding: 10px 2px;
+}
